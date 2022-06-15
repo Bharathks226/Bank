@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 65.284 sec <<< FAILURE! - in TestSuite
+loginDDT(Bank.testCases.TC_DDTTest_002)  Time elapsed: 6.193 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertTrue(Assert.java:56)
+	at org.testng.Assert.assertTrue(Assert.java:66)
+	at Bank.testCases.TC_DDTTest_002.loginDDT(TC_DDTTest_002.java:33)
+
+loginDDT(Bank.testCases.TC_DDTTest_002)  Time elapsed: 7.139 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertTrue(Assert.java:56)
+	at org.testng.Assert.assertTrue(Assert.java:66)
+	at Bank.testCases.TC_DDTTest_002.loginDDT(TC_DDTTest_002.java:33)
+
+loginDDT(Bank.testCases.TC_DDTTest_002)  Time elapsed: 6.257 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertTrue(Assert.java:56)
+	at org.testng.Assert.assertTrue(Assert.java:66)
+	at Bank.testCases.TC_DDTTest_002.loginDDT(TC_DDTTest_002.java:33)
+
+loginDDT(Bank.testCases.TC_DDTTest_002)  Time elapsed: 7.012 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertTrue(Assert.java:56)
+	at org.testng.Assert.assertTrue(Assert.java:66)
+	at Bank.testCases.TC_DDTTest_002.loginDDT(TC_DDTTest_002.java:33)
+
+loginDDT(Bank.testCases.TC_DDTTest_002)  Time elapsed: 6.638 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertTrue(Assert.java:56)
+	at org.testng.Assert.assertTrue(Assert.java:66)
+	at Bank.testCases.TC_DDTTest_002.loginDDT(TC_DDTTest_002.java:33)
+
